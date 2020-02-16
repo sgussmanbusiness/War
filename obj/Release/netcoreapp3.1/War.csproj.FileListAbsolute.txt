@@ -1,0 +1,10 @@
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.exe
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.deps.json
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.dll
+C:\Users\Steve\dev\console\c#\War\War\bin\Release\netcoreapp3.1\War.pdb
+C:\Users\Steve\dev\console\c#\War\War\obj\Release\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\Steve\dev\console\c#\War\War\obj\Release\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\Steve\dev\console\c#\War\War\obj\Release\netcoreapp3.1\War.dll
+C:\Users\Steve\dev\console\c#\War\War\obj\Release\netcoreapp3.1\War.pdb
