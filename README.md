@@ -4,7 +4,7 @@ The rules are simple: the player and the CPU-opponent each draw a card from a sh
 NOTE: The relative numbered values of cards are used only to determine the winner of a round; each card is worth one point when it comes to scoring.
 
 # Build
-The user can either download the repo and build the game theirself, or alternatively just download and run the War.exe exeutable located in War\bin\Release\netcoreapp3.1\.
+The user can build the game from the repo, or alternatively just run the pre-built War.exe exeutable located in War\bin\Release\netcoreapp3.1\ (make sure to download at least the entire netcoreapp3.1 folder).
 
 # Sources
 1: I brushed up on the rules of the game at https://en.wikipedia.org/wiki/War_(card_game)'s "Gameplay" section which itself cites "Rules of card games: War" (at pagat.com).
